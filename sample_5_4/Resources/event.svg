@@ -1,0 +1,65 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg">
+  <g id="Layer_1" transform="translate(-2, -2)">
+    <g id="Calendar">
+      <path d="M29, 4L26, 4L26, 7C26, 7.5 25.5, 8 25, 8L21, 8C20.5, 8 20, 7.5 20, 7L20, 4L12, 4L12, 7C12, 7.5 11.5, 8 11, 8L7, 8C6.5, 8 6, 7.5 6, 7L6, 4L3, 4C2.4, 4 2, 4.4 2, 5L2, 10L30, 10L30, 5C30, 4.4 29.6, 4 29, 4z" fill="#D11C1C" class="Red" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)">
+    <g id="Calendar">
+      <g opacity="0.5" class="st1">
+        <rect x="8" y="14" width="4" height="4" rx="0" ry="0" fill="#D11C1C" opacity="0.5" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)">
+    <g id="Calendar">
+      <g opacity="0.5" class="st1">
+        <rect x="14" y="20" width="4" height="4" rx="0" ry="0" fill="#D11C1C" opacity="0.5" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)">
+    <g id="Calendar">
+      <g opacity="0.5" class="st1">
+        <rect x="8" y="20" width="4" height="4" rx="0" ry="0" fill="#D11C1C" opacity="0.5" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)">
+    <g id="Calendar">
+      <g opacity="0.5" class="st1">
+        <rect x="20" y="14" width="4" height="4" rx="0" ry="0" fill="#D11C1C" opacity="0.5" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)">
+    <g id="Calendar">
+      <g opacity="0.5" class="st1">
+        <rect x="14" y="14" width="4" height="4" rx="0" ry="0" fill="#D11C1C" opacity="0.5" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)">
+    <g id="Calendar">
+      <g opacity="0.5" class="st1">
+        <rect x="20" y="20" width="4" height="4" rx="0" ry="0" fill="#D11C1C" opacity="0.5" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)">
+    <g id="Calendar">
+      <path d="M28, 10L28, 28L4, 28L4, 10L2, 10L2, 29C2, 29.6 2.4, 30 3, 30L29, 30C29.6, 30 30, 29.6 30, 29L30, 10L28, 10z" fill="#D11C1C" class="Red" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)">
+    <g id="Calendar">
+      <rect x="22" y="2" width="2" height="4" rx="0" ry="0" fill="#D11C1C" class="Red" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)">
+    <g id="Calendar">
+      <rect x="8" y="2" width="2" height="4" rx="0" ry="0" fill="#D11C1C" class="Red" />
+    </g>
+  </g>
+</svg>

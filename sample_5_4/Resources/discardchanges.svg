@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-6 -4 32 32" xmlns="http://www.w3.org/2000/svg">
+  <g id="Layer_1" transform="translate(-6, -4)">
+    <g id="Database">
+      <path d="M16, 24C10.5, 24 6, 22.2 6, 20L6, 24C6, 26.2 10.5, 28 16, 28C21.5, 28 26, 26.2 26, 24L26, 20C26, 22.2 21.5, 24 16, 24z" fill="#FFB115" class="Yellow" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-6, -4)">
+    <g id="Database">
+      <path d="M16, 18C10.5, 18 6, 16.2 6, 14L6, 18C6, 20.2 10.5, 22 16, 22C21.5, 22 26, 20.2 26, 18L26, 14C26, 16.2 21.5, 18 16, 18z" fill="#FFB115" class="Yellow" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-6, -4)">
+    <g id="Database">
+      <path d="M16, 4C10.5, 4 6, 5.8 6, 8L6, 12C6, 14.2 10.5, 16 16, 16C21.5, 16 26, 14.2 26, 12L26, 8C26, 5.8 21.5, 4 16, 4z" fill="#FFB115" class="Yellow" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(10, 12)">
+    <g id="DeleteCircled_1_">
+      <circle cx="8" cy="8" r="8" fill="#D11C1C" class="Red" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(10, 12)">
+    <g id="DeleteCircled_1_">
+      <polygon points="12.2,5.2 10.8,3.8 8,6.6 5.2,3.8 3.8,5.2 6.6,8 3.8,10.8 5.2,12.2 8,9.4 10.8,12.2 12.2,10.8 9.4,8     " fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <g id="Layer_1" transform="translate(2, 4)">
+    <g id="BarChart">
+      <rect x="2" y="16" width="8" height="12" rx="0" ry="0" fill="#FFB115" class="Yellow" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(2, 4)">
+    <g id="BarChart">
+      <rect x="12" y="10" width="8" height="18" rx="0" ry="0" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(2, 4)">
+    <g id="BarChart">
+      <rect x="22" y="4" width="8" height="24" rx="0" ry="0" fill="#D11C1C" class="Red" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g id="Table">
+      <g opacity="0.5" class="st1">
+        <rect x="0" y="6" width="4" height="4" rx="0" ry="0" fill="#FFB115" opacity="0.5" class="Yellow" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g id="Table">
+      <g opacity="0.5" class="st1">
+        <rect x="6" y="12" width="4" height="4" rx="0" ry="0" fill="#1177D7" opacity="0.5" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g id="Table">
+      <g opacity="0.5" class="st1">
+        <rect x="0" y="12" width="4" height="4" rx="0" ry="0" fill="#FFB115" opacity="0.5" class="Yellow" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g id="Table">
+      <g opacity="0.5" class="st1">
+        <rect x="12" y="6" width="4" height="4" rx="0" ry="0" fill="#D11C1C" opacity="0.5" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g id="Table">
+      <g opacity="0.5" class="st1">
+        <rect x="12" y="12" width="4" height="4" rx="0" ry="0" fill="#D11C1C" opacity="0.5" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g id="Table">
+      <g opacity="0.5" class="st1">
+        <rect x="6" y="6" width="4" height="4" rx="0" ry="0" fill="#1177D7" opacity="0.5" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g id="Table">
+      <rect x="0" y="0" width="16" height="4" rx="0" ry="0" fill="#727272" class="Black" />
+    </g>
+  </g>
+</svg>
